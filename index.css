@@ -1,0 +1,79 @@
+.bg-container{
+    background-color: rgb(255, 255, 255);
+    width:100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.color-change{
+    color: red;
+}
+
+.cat-image{
+    height: 35vh;
+    width:15vw;
+    
+}
+.alphabet-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.alphabet-container{
+    width:23vw;
+    height:47vh;
+    border: 5px solid  aqua;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 5px;
+    
+}
+
+.Alpha{
+    color: rgb(14, 14, 49);
+    border:1px solid black;
+    background-color: rgb(194, 192, 192);
+    height:70px;
+    width:70px;
+    
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+    border-radius: 4px;  
+    margin-bottom: 5px; 
+   
+    
+}
+.card-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width:70vw;
+
+}
+
+.alphabet-container1{
+    width: 10vw;
+    height:47vh;
+    border: 5px solid  aqua;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    padding: 5px;
+}
+
